@@ -8,12 +8,10 @@ Currently, I am open to working and eager to specialize in my new career path, 
 
 
 <!--- 🔭 I’m currently working on [Facemask Detector](https://github.com/AkhilGKrishnan/Face-Mask-Detector)-->
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on [CensorLabel](https://github.com/AkhilGKrishnan/CensorLabel)
+- 🌱 I’m currently learning ReactJS | JavaScript | MongoDB
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: i am a man of many activities, one of them is being a LiveStock Rancher, a GAUCHO!
 
 
 ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=FerLeonhardt&show_icons=true&theme=dark)
 
-⭐️ From [AkhilGKrishnan](https://github.com/FerLeonhardt)
