@@ -13,5 +13,5 @@ Currently, I am open to working and eager to specialize in my new career path, 
 - ⚡ Fun fact: i am a man of many activities, one of them is being a LiveStock Rancher, a GAUCHO!
 
 
-![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dark)
+![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=FerLeonhardt&show_icons=true&theme=dark)
 
