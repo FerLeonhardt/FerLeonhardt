@@ -1,8 +1,8 @@
 ### Hi there I'm [Fer!](https://akhilgkrishnan.me)👋
-Entry-level/Junior Fullstack Web Developer | HTML/CSS & JavaScript | Node js | SQL | Express | React.<br>
+WEB DEVELOPER |ENTREPENEUR<br>
 
-I'm Fer Leonhardt, 35-year-old curious and fun guy who does web development. Passionate to always go forward, I am always open to meeting other people and especially, getting to know them.<br>
-Currently, I am open to working and eager to specialize in my new career path, web development.<br>
+I'm Fer Leonhardt, i'm an entrepenour who does web development. Passionate to always go forward, I am always open to meeting other people and especially, getting to know them.<br>
+Currently, I am eager to specialize in my new career path, web development.<br>
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ferleonhardt/)
 
