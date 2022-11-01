@@ -1,7 +1,7 @@
 ### Hi there I'm [Fer!](https://akhilgkrishnan.me)👋
-WEB DEVELOPER |ENTREPENEUR<br>
+WEB DEVELOPER |ENTREPRENEUR<br>
 
-I'm Fer Leonhardt, i'm an entrepenour who does web development. Passionate to always go forward, I am always open to meeting other people and especially, getting to know them.<br>
+I'm Fer Leonhardt, i'm an entreprenour who does web development. Passionate to always go forward, I am always open to meeting other people and especially, getting to know them.<br>
 Currently, I am eager to specialize in my new career path, web development.<br>
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ferleonhardt/)
